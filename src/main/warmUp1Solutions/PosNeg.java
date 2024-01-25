@@ -1,4 +1,4 @@
-package main.warmUpSolutions;
+package main.warmUp1Solutions;
 
 public class PosNeg {
     public boolean posNeg(int a, int b, boolean negative) {

@@ -1,4 +1,4 @@
-package main.warmUpSolutions;
+package main.warmUp1Solutions;
 
 public class NearHundred {
     public boolean nearHundred(int n) {

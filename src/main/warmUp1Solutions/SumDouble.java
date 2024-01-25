@@ -1,4 +1,4 @@
-package main.warmUpSolutions;
+package main.warmUp1Solutions;
 
 public class SumDouble {
     public int sumDouble(int a, int b) {

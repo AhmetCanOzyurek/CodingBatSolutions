@@ -1,4 +1,4 @@
-package main.warmUpSolutions;
+package main.warmUp1Solutions;
 
 public class ParrotTrouble {
     public boolean parrotTrouble(boolean talking, int hour) {

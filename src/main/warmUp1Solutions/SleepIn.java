@@ -1,4 +1,4 @@
-package main.warmUpSolutions;
+package main.warmUp1Solutions;
 
 public class SleepIn {
     public boolean sleepIn(boolean weekday, boolean vacation) {
