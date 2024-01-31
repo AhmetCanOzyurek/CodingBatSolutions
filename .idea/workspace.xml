@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="NotString solution." />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="missingChar and frontBack solutions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706198996127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="missingChar and frontBack solutions">
+      <option name="closed" value="true" />
+      <created>1706446362429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706446362429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +105,7 @@
     <MESSAGE value="7 CodingBat WarmUp questions solutions" />
     <MESSAGE value="posNeg warmUp Question solution" />
     <MESSAGE value="NotString solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="NotString solution." />
+    <MESSAGE value="missingChar and frontBack solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="missingChar and frontBack solutions" />
   </component>
 </project>
