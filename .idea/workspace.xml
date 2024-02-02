@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="missingChar and frontBack solutions" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="front22, or35 and startHi solutions.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706446362429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="front3 solution">
+      <option name="closed" value="true" />
+      <created>1706697305307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706697305307</updated>
+    </task>
+    <task id="LOCAL-00006" summary="backAround solution">
+      <option name="closed" value="true" />
+      <created>1706697448273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706697448273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="front22, or35 and startHi solutions.">
+      <option name="closed" value="true" />
+      <created>1706790152896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706790152896</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +132,9 @@
     <MESSAGE value="posNeg warmUp Question solution" />
     <MESSAGE value="NotString solution." />
     <MESSAGE value="missingChar and frontBack solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="missingChar and frontBack solutions" />
+    <MESSAGE value="front3 solution" />
+    <MESSAGE value="backAround solution" />
+    <MESSAGE value="front22, or35 and startHi solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="front22, or35 and startHi solutions." />
   </component>
 </project>
