@@ -1,4 +1,4 @@
-package main;
+package main.warmUp1Solutions;
 
 public class HasTeen {
     public boolean hasTeen(int a, int b, int c) {

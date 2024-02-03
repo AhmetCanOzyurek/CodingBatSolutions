@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="front22, or35 and startHi solutions.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706790152896</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions">
+      <option name="closed" value="true" />
+      <created>1706880416959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706880416959</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +141,7 @@
     <MESSAGE value="front3 solution" />
     <MESSAGE value="backAround solution" />
     <MESSAGE value="front22, or35 and startHi solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="front22, or35 and startHi solutions." />
+    <MESSAGE value="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
   </component>
 </project>
