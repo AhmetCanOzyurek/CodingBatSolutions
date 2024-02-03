@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="-IoneTeen&#10;solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706880416959</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-IoneTeen&#10;solution">
+      <option name="closed" value="true" />
+      <created>1706991526619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706991526619</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +150,7 @@
     <MESSAGE value="backAround solution" />
     <MESSAGE value="front22, or35 and startHi solutions." />
     <MESSAGE value="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="- hasTeen&#10;- icyHot &#10;- int1020&#10;solutions" />
+    <MESSAGE value="-IoneTeen&#10;solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="-IoneTeen&#10;solution" />
   </component>
 </project>
