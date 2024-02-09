@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- startOz&#10;solution" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- in3050&#10;solution">
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/EndUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/EveryNth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/StringE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707133633962</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="- close10&#10;solution">
+      <option name="closed" value="true" />
+      <created>1707306058460</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707306058460</updated>
+    </task>
+    <task id="LOCAL-00013" summary="- in3050&#10;solution">
+      <option name="closed" value="true" />
+      <created>1707306305970</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707306305970</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +191,8 @@
     <MESSAGE value="-IoneTeen&#10;solution" />
     <MESSAGE value="-mixStart&#10;solution" />
     <MESSAGE value="- startOz&#10;solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="- startOz&#10;solution" />
+    <MESSAGE value="- close10&#10;solution" />
+    <MESSAGE value="- in3050&#10;solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="- in3050&#10;solution" />
   </component>
 </project>
