@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- in3050&#10;solution">
-      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/EndUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/EveryNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/warmUp1Solutions/StringE.java" afterDir="false" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- endUp&#10;- everyNth&#10;- lastDigit&#10;- stringE&#10;solutions&#10;WarmUp1 is done.">
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/CountXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/FrontTimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707306305970</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="- endUp&#10;- everyNth&#10;- lastDigit&#10;- stringE&#10;solutions&#10;WarmUp1 is done.">
+      <option name="closed" value="true" />
+      <created>1707488026066</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707488026066</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +199,7 @@
     <MESSAGE value="- startOz&#10;solution" />
     <MESSAGE value="- close10&#10;solution" />
     <MESSAGE value="- in3050&#10;solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="- in3050&#10;solution" />
+    <MESSAGE value="- endUp&#10;- everyNth&#10;- lastDigit&#10;- stringE&#10;solutions&#10;WarmUp1 is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="- endUp&#10;- everyNth&#10;- lastDigit&#10;- stringE&#10;solutions&#10;WarmUp1 is done." />
   </component>
 </project>
