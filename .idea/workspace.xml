@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- countXX&#10;- DoubleX&#10;- FrontTimes&#10;solutions&#10;WarmUp2 begining">
-      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/StringSplosion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- last2&#10;- stringSplosion&#10;solutions">
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/arrayCount9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708029124389</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="- last2&#10;- stringSplosion&#10;solutions">
+      <option name="closed" value="true" />
+      <created>1708282495556</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708282495556</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +215,7 @@
     <MESSAGE value="- in3050&#10;solution" />
     <MESSAGE value="- endUp&#10;- everyNth&#10;- lastDigit&#10;- stringE&#10;solutions&#10;WarmUp1 is done." />
     <MESSAGE value="- countXX&#10;- DoubleX&#10;- FrontTimes&#10;solutions&#10;WarmUp2 begining" />
-    <option name="LAST_COMMIT_MESSAGE" value="- countXX&#10;- DoubleX&#10;- FrontTimes&#10;solutions&#10;WarmUp2 begining" />
+    <MESSAGE value="- last2&#10;- stringSplosion&#10;solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="- last2&#10;- stringSplosion&#10;solutions" />
   </component>
 </project>
