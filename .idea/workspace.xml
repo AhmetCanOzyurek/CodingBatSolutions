@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- array123&#10;- arrayCount9&#10;- arrayFront9&#10;- StringMatch&#10;solutions" />
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- altPairs&#10;solutions">
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/Array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/NoTriples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/StringYak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AhmetCanOzyurek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AhmetCanOzyurek&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -205,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708613990487</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="- stringX&#10;solutions">
+      <option name="closed" value="true" />
+      <created>1708891233753</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708891233753</updated>
+    </task>
+    <task id="LOCAL-00019" summary="- altPairs&#10;solutions">
+      <option name="closed" value="true" />
+      <created>1708891986130</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708891986130</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +258,19 @@
     <MESSAGE value="- countXX&#10;- DoubleX&#10;- FrontTimes&#10;solutions&#10;WarmUp2 begining" />
     <MESSAGE value="- last2&#10;- stringSplosion&#10;solutions" />
     <MESSAGE value="- array123&#10;- arrayCount9&#10;- arrayFront9&#10;- StringMatch&#10;solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="- array123&#10;- arrayCount9&#10;- arrayFront9&#10;- StringMatch&#10;solutions" />
+    <MESSAGE value="- stringX&#10;solutions" />
+    <MESSAGE value="- altPairs&#10;solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="- altPairs&#10;solutions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/warmUp2Solutions/StringX.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
