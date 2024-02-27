@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- altPairs&#10;solutions">
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- stringYak&#10;- noTriples&#10;- array667&#10;solutions">
       <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/Array667.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/NoTriples.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/warmUp2Solutions/StringYak.java" afterDir="false" />
@@ -226,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708891986130</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="- stringYak&#10;- noTriples&#10;- array667&#10;solutions">
+      <option name="closed" value="true" />
+      <created>1708970307189</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708970307189</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +268,8 @@
     <MESSAGE value="- array123&#10;- arrayCount9&#10;- arrayFront9&#10;- StringMatch&#10;solutions" />
     <MESSAGE value="- stringX&#10;solutions" />
     <MESSAGE value="- altPairs&#10;solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="- altPairs&#10;solutions" />
+    <MESSAGE value="- stringYak&#10;- noTriples&#10;- array667&#10;solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="- stringYak&#10;- noTriples&#10;- array667&#10;solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
