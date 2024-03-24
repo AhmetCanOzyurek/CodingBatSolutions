@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- has271&#10;solutions&#10;End of WarmUp-2">
+    <list default="true" id="28f0013d-0e89-488a-a6af-034f06733dd4" name="Changes" comment="- nTwice&#10;- endsLy&#10;- middleTwo&#10;String-1 solutions">
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/String1/EndsLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/String1/MiddleTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingBatSolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingBatSolutions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709067012249</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="- nTwice&#10;- endsLy&#10;- middleTwo&#10;String-1 solutions">
+      <option name="closed" value="true" />
+      <created>1710077440838</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710077440838</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +290,8 @@
     <MESSAGE value="- stringYak&#10;- noTriples&#10;- array667&#10;solutions" />
     <MESSAGE value="- has271&#10;solutions" />
     <MESSAGE value="- has271&#10;solutions&#10;End of WarmUp-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="- has271&#10;solutions&#10;End of WarmUp-2" />
+    <MESSAGE value="- nTwice&#10;- endsLy&#10;- middleTwo&#10;String-1 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="- nTwice&#10;- endsLy&#10;- middleTwo&#10;String-1 solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
